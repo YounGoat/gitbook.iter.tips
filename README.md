@@ -1,2 +1,3 @@
-# Introduction
+#	前言
 
+>	IT 世界不仅仅属于 IT 人，但是 IT 人在 IT 世界里有自己的生活方式。
