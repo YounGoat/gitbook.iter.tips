@@ -5,3 +5,5 @@
 	*	[Atom, by GitHub](editor/atom.md)
 *	[代码仓库](repo/index.md)
 	*	[Git](repo/git.md)
+*	[运维自动化](ops/index.md)
+	*	[Ansible](ops/ansible.md)
