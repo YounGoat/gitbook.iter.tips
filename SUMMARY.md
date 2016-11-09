@@ -10,3 +10,8 @@
 	*	[MySQL](db/mysql.md)
 *	[运维自动化](ops/index.md)
 	*	[Ansible](ops/ansible.md)
+*	[数据加密](crypto/index.md)
+	*	[他们在说什么？](crypto/argot.md)
+	*	[数据摘要](crypto/digest.md)
+	*	[法律法规](crypto/law.md)
+*	[附，集思广益](ref/misc.md)
