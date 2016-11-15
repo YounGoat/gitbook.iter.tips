@@ -1,4 +1,8 @@
 {
+	"title": "假装我是 IT 人",
+	"variables": {
+		"TITLE": "假装我是 IT 人"
+	},
 	"plugins": [
 		"toggle-chapters"
 	]

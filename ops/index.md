@@ -1,5 +1,4 @@
 #	运维自动化
 
->	路人甲：运维有啥技术含量，不就是装机、开机、关机吗？  
->	运维乙：ansible, puppet, salt, ...  
->	运维丙：bash, c++, python, ...
+>	DevOps (a clipped compound of development and operations) is a culture, movement or practice that emphasizes the collaboration and communication of both software developers and other information-technology (IT) professionals while automating the process of software delivery and infrastructure changes.  
+>	引自[维基百科词条，DevOps](https://en.wikipedia.org/wiki/DevOps)
