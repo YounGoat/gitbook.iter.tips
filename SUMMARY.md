@@ -7,6 +7,7 @@
     * [Chocolatey](package-manager/chocolatey.md)
 * [文本编辑器](editor/index.md)
     * [Atom, by GitHub](editor/atom.md)
+* [领域语言](domain-language/index.md)
 * [标记语言](markup/index.md)
 * [代码仓库](repo/index.md)
     * [Git](repo/git.md)
