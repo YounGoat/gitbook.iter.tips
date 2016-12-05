@@ -5,4 +5,4 @@
 *	作者的个人主页：[YounGoat.github.io](https://youngoat.github.io)
 *	本书的源码地址：[https://github.com/YounGoat/gitbook.iter.tips](https://github.com/YounGoat/gitbook.iter.tips)
 
-{% include "SUMMARY.md" %}
+SEE [SUMMARY](./SUMMARY.md) FOR DETAILS.
