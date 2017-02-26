@@ -4,6 +4,20 @@
 		"TITLE": "假装我是 IT 人"
 	},
 	"plugins": [
-		"toggle-chapters"
-	]
+		"toggle-chapters",
+		"catalog",
+		"analytics"
+	],
+	"pluginsConfig": {
+		"analytics": {
+			"google": {
+				"token": "UA-80152063-2",
+				"host": "youngoat.github.io"
+			},
+			"baidu": {
+				"token": "14e1e69c9ea9f2f43cbf24b5257e7205",
+				"host": "youngoat.github.io"
+			}
+		}
+	}
 }

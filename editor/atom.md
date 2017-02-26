@@ -1,6 +1,10 @@
 #	ATOM
 
-##	Atom Package 开发
+##	Package 推荐清单
+
+@2BW
+
+##	Package 开发
 
 参考资料：
 *	*Atom Flight Manual, Package: Word Count*  
@@ -15,7 +19,6 @@ Packages / Package Generator / Generate Atom Package
 或者，使用快捷键 ```Command + Shift + P``` 打开命令面板（Command Palette），输入名称检索。
 
 除了搭建包的骨架之外，Package Generator 还把包目录链接到 ~/.atom/packages/ 目录下，如果不出意外，Atom 可以即时加载到新创建的包，你可以在 Packages 菜单下找到它。
-
 
 ##	FAQ
 

@@ -9,3 +9,12 @@
 	> When push.default is set to 'matching', git will push local branches to the remote branches that already exist with the same name.
 	>
 	> Since Git 2.0, Git defaults to the more conservative 'simple' behavior, which only pushes the current branch to the corresponding remote branch that 'git pull' uses to update the current branch.
+
+0.	__Why the files just pulled from remote are "unstaged"?__   
+
+##	SEE
+
+*	*GotGit*, *Git权威指南*  
+	https://github.com/gotgit/gotgit/  
+	http://www.worldhello.net/gotgithub/  
+	by [蒋鑫](http://www.worldhello.net/)
