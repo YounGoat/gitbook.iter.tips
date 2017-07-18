@@ -26,20 +26,27 @@
 	* [QT](lang/qt/index.md)
 * [领域语言](domain-lang/index.md)
 	* [make](domain-lang/make/index.md)
+	* [yaml](domain-lang/yaml.md)
 * [标记语言](markup/index.md)
+	* [SVG](markup/svg.md)
 * [模板语言](template/index.md)
-
+* [副语言](sub-lang/index.md)
+	* [Bootstrap](sub-lang/bootstrap.md)
+* [语法静态分析](lint/index.md)
+	* [SonarQube](lint/sonar.md)
 ---
 
 * [文本编辑器](editor/index.md)
     * [Atom, by GitHub](editor/atom.md)
+	* [Visual Studio Code, by MicroSoft](editor/vscode/index.md)
 * [用户代理，浏览器](useragent/index.md)
 	* [Chrome](useragent/chrome.md)
 * [代理与反向代理](proxy/index.md)
 	* [mitmproxy](proxy/mitmproxy.md)
 	* [polipo](proxy/polipo.md)
 * [代码仓库](repo/index.md)
-    * [Git](repo/git.md)
+    * [Git](repo/git/index.md)
+		* [FAQ](repo/git/faq.md)
     * [GitHub](repo/github.md)
 * [运维自动化](ops/index.md)
     * [Ansible](ops/ansible.md)
@@ -57,6 +64,13 @@
 	* [Kafka](mq/kafka.md)
 * [前端框架](frontend/index.md)
     * [Angular](frontend/angular.md)
+* [云计算](cloudy/index.md)
+	* [云存储](cloudy/storage.md)
+* [Web 服务器](webserver/index.md)
+	* [Apache](webserver/apache.md)
+* [虚拟化](virtual/index.md)
+	* [Docker](virtual/docker/index.md)
+		* [On MacOS](virtual/docker/mac.md)
 
 ---
 

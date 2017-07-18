@@ -2,6 +2,15 @@
 
 >	MySQL is not the best. It's mine.
 
+##	安装
+
+###	在 Linux 中安装 MySQL Server / MySQL Client
+
+```bash
+yum install mysql-server
+yum install mysql
+```
+
 ##	字符集
 
 通过命令行终端登录数据库，如果显示乱码怎么办？

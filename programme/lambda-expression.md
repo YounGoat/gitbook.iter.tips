@@ -10,7 +10,15 @@ map(lambda x: x*x, a)
 # OUTPUT: [ 1, 4, 9 ]
 ```
 
+##	Currying
+
 ##	SEE
 
 *	*λ演算*  
 	https://zh.wikipedia.org/wiki/Λ演算
+
+*	WIKIPEDIA: *ML (programming language)*  
+	https://en.wikipedia.org/wiki/ML_(programming_language)
+
+*	WIKIPEDIA: *Currying*  
+	https://en.wikipedia.org/wiki/Currying

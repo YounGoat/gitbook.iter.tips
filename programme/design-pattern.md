@@ -10,3 +10,6 @@
 
 *	WIKIPEDIA: *Design Patterns*  
 	https://en.wikipedia.org/wiki/Design_Patterns
+
+*	MSDN: *Design Guidelines for Developing Class Libraries*  
+	https://msdn.microsoft.com/en-us/library/ms229042%28v=vs.100%29.aspx
